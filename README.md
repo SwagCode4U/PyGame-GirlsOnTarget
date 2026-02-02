@@ -151,7 +151,7 @@ This project is open for learning and educational purposes.
 
 Fork it, break it, improve it — that’s how coders grow 🚀
 
-<p align="center"> <b>🌟 If you like this project 🌟</b>
+🌟 If you like this project 🌟
 
 
-⭐ Star the repo | 🍴 Fork it | 🧠 Learn from it </p>
+⭐ Star the repo | 🍴 Fork it | 🧠 Learn from it 
